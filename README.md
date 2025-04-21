@@ -8,12 +8,12 @@
 
 ## Sobre mí
 
-🎮 Unity & Unreal Engine Student 🎮
-📲 Multiplatform Developer
-🧠 Fast learner and creative problem solver, always looking for innovative solutions
-🔍 Naturally curious, with a strong desire to explore new technologies
-🌱 Constantly evolving, improving my skills through hands-on projects
-💬 Effective communicator, working collaboratively in team environments
+- 🎮 Unity & Unreal Engine Student 🎮
+- 📲 Multiplatform Developer
+- 🧠 Fast learner and creative problem solver, always looking for innovative solutions
+- 🔍 Naturally curious, with a strong desire to explore new technologies
+- 🌱 Constantly evolving, improving my skills through hands-on projects
+- 💬 Effective communicator, working collaboratively in team environments
 
 ---
 
